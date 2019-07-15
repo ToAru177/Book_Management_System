@@ -14,7 +14,7 @@
 
 # 시스템 구조도
 
-![Image](./Book_Management_System/system_structure_diagram.png)
+![Image](./system_structure_diagram.png)
 
 - 단 방향 연결리스트로 각각 입력 받은 정보(회원 정보, DVD 정보, 대여 정보)를 프로그램 상에 저장하여 부럴오는 식으로 구동합니다.
 
