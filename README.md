@@ -1,4 +1,4 @@
-# Book Management System
+# DVD Management System
 
 - DVD 대출/반납/조회 기능을 C Code로 구현한 프로그램입니다.
 
